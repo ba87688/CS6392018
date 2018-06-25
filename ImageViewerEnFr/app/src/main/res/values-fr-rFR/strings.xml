@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">ImageViewerEnFr</string>
+    <string name="action_settings">Paramètres</string>
+
+
+    <string name="enter_name">Entrez votre nom:</string>
+    <string name="enter_name2">Entrez votre nom </string>
+
+    <string name="enter_email">Entrer votre Email: </string>
+
+    <string name="name_hint">Eva Mendyou  </string>
+    <string name="email_hint">ba8768@gmail.com  </string>
+
+
+</resources>

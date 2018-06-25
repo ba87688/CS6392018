@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ImageViewerEnFr</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="enter_name">Enter Your Name:</string>
+    <string name="enter_name2">Enter Your Name</string>
+
+    <string name="enter_email">Enter Your Email: </string>
+
+    <string name="name_hint">Eva Mendyou  </string>
+    <string name="email_hint">ba8768@gmail.com  </string>
+
+
+
+
+</resources>
