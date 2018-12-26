@@ -1,2 +1,2 @@
 # CS6392018
-Class
+Android Dev Class Homework
